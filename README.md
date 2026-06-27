@@ -1,3 +1,4 @@
+![MalScan Banner](ChatGPT%20Image%20Jun%2027,%202026,%2002_47_44%20PM.png)
 # MalScan
 
 MalScan is a Python-based enterprise malware scanning tool designed for Kali Linux. It helps security professionals and ethical hackers identify suspicious processes, malware indicators, persistence mechanisms, network anomalies, and potential rootkit activity during authorized security assessments.
